@@ -11,6 +11,7 @@ PART 9: Reflection Questions
 1. What is the difference between commit and push?
    
 	•	Commit saves changes to your local repository after selecting files and writing a commit message. It helps track your progress on your own computer.
+
 	•	Push sends those committed changes to the remote Gitea repository so other group members can see and use them.
 In simple terms, committing stores your work locally, while pushing shares it with others.
 
