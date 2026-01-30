@@ -1,10 +1,3 @@
-About This Project
-
-This is a collaborative project repository for CS1 Group 4. The project is designed to help students understand how Git and Gitea are used for version control while working as a team. It allows members to practice managing files, tracking changes, and collaborating effectively.
-
-Documentation
-
-This repository serves as a learning resource for using Git and Gitea in collaborative development. It helps students learn how to commit changes, push updates, use branches, and handle merge conflicts in an organized way.
 
 PART 9: Reflection Questions
 
